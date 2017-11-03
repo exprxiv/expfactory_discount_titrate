@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_discount_titrate",
+    "alt_name": "Delay Discounting Titration: Intertemporal Choice",
+    "description": "Very similar to Kirby items subjects again choose between smaller sooner and larger later rewards. Unlike the Kirby items the smaller amounts will not always be immediate and the amounts will be chosen randomly from a uniform distribution of a given interval. This way discount rates can be estimated and different model fits of discounting behavior can be compared.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_discount_titrate.git"},
+    "contributors": ["Zeynep Enkavi", "Ian Eisenberg", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_566748c929afc"} ],
+    "reference": "http://www.nature.com/neuro/journal/v13/n5/full/nn.2516.html"
+}
